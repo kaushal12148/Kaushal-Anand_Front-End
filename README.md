@@ -120,7 +120,7 @@ Changes made:
 
 •	The propTypes definitions for the List component are updated to require an array of objects with a text property.
 
-•	The defaultProps for WrappedListComponent are removed since they are not necessary.
+•	The defaultProps for WrappedListComponent are removed since they are not necessary
 
 
 
